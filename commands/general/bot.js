@@ -23,7 +23,7 @@ var repo = new disbut.MessageButton()
 
 var invite = new disbut.MessageButton()
       .setStyle("url")
-      .setURL("https://invite.com")
+      .setURL("https://discord.com/api/oauth2/authorize?client_id=917150316082921493&permissions=126016&scope=bot")
       .setLabel('Invite');
 
 message.channel.send(bot, { buttons: [invite, repo] });
