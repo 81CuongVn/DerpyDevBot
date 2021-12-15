@@ -22,7 +22,7 @@ module.exports = {
     
     var discord = new disbut.MessageButton() 
     .setStyle("url")
-    .setURL(`https://discord.gg/penis/`)
+    .setURL(`https://discord.gg/vCcAW3qHdX`)
     .setLabel("Discord")
     .setEmoji("920441120364838982");
     
