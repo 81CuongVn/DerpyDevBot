@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "DerpyDev#0001",
   "license": "ISC",
   "dependencies": {
     "dezirehandler.js": "^1.0.2",
